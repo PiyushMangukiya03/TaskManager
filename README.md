@@ -26,10 +26,7 @@ A modern task management app built with **Jetpack Compose**, **Room Database**, 
 ## Demo Video 🎥
 
 ### YouTube Embed
-<iframe width="560" height="315" src="https://youtube.com/shorts/nYtevY8uoS4?feature=share" frameborder="0" allowfullscreen></iframe>
-
-### Local Video File
-[Watch the demo video](screenshots/light_dark.mp4)
+https://youtube.com/shorts/nYtevY8uoS4
 
 ---
 
