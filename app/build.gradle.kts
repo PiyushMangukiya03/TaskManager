@@ -120,6 +120,14 @@ dependencies {
      */
     implementation(libs.compose.shimmer)
 
+    /**
+     * Preferences
+     */
     implementation(libs.androidx.datastore.preferences)
+
+    /**
+     * WorkManager
+     */
+    implementation(libs.androidx.work.runtime.ktx) // if WorkManager is used
 
 }
